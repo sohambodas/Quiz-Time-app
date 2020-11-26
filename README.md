@@ -4,9 +4,9 @@
 
 A Flutter application.
 
-![picture](screenshots/1.jpg)
-![picture](screenshots/2.jpg)
-![picture](screenshots/3.jpg)
+![picture](screenshots/1.png)
+![picture](screenshots/2.png)
+![picture](screenshots/3.png)
 
 ## Getting Started
 
